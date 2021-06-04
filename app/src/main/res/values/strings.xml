@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">User Management</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="remember">Remember</string>
+    <string name="forgotpass">Forgot password</string>
+
+    <string name="fullname">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+
+    <string name="address">Address</string>
+
+    <string name="phone">Phone number</string>
+    <string name="website">website</string>
+
+    <string name="company">Company</string>
+
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="secretanswer">Secret Answer</string>
+
+    <string name="newusermanagement">New to User Management?</string>
+    <string name="alreadyaccount">Already have an account?</string>
+    <string name="welcome">Welcome back!</string>
+    <string name="getstart">Get started with a free account!</string>
+
+    <string name="downserver">Unable to connect to server</string>
+    <string name="selectcountry">Select your Country</string>
+
+    <string name="detail">User Detail</string>
+
+    <string-array name="setting">
+        <item> </item>
+        <item>Logout</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
